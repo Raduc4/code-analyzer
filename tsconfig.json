@@ -21,7 +21,7 @@
 
     "noImplicitAny": false,
     "allowJs": true,
-    "strictNullChecks": false,
+    // "strictNullChecks": false,
 
     /* Linting */
     "strict": true,

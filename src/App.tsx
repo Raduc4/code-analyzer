@@ -5,7 +5,7 @@ function App() {
  
 
   return (
-    <main className="container w-10 h-10 bg-amber-300">
+    <main className="container w-10 bg-primary">
      
     </main>
   );
