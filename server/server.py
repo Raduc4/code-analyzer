@@ -47,6 +47,8 @@ Follow these guidelines carefully:
    - Recommend additional tests or edge cases.
 ---
 
+But in the end show me some code for refactoring.
+
 Code to review:
 {code}
 """
